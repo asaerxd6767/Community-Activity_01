@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Weekly Challenge Guide / دليل التحدي الأسبوعي
 
 اختر لغتك المفضلة لقراءة التعليمات وسير العمل:
@@ -20,7 +19,6 @@
 ```bash
 git clone <repository-url>
 cd <repository-name>
-
 ```
 
 *(استبدل `<repository-url>` برابط هذا المستودع، واستبدل `<repository-name>` باسم المجلد).*
